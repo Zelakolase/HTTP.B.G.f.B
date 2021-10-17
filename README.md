@@ -16,5 +16,5 @@ Collect the 4 flags, each flag is 9 numbers long, the sum of the 4 flags is `710
 3. Start with Ch0 . If you're able to solve it, you can proceed, you just need a lil push xD.<br>Otherwise, try to learn basics first.
 4. Search for hints!
 
-## Yay! I solved them all!
+## "Yay! I solved them all!"
 Congratulations! You can send me the 4 flags on my e-mail `morad.gill@gmail.com` and I'll be happy to send you weekly challenges varying in difficulty!
